@@ -1,4 +1,4 @@
-## ✏ thddlmy's develop blog
+## 📝 thddlmy's develop blog
 
 ### about
 - 매일매일은 아니지만, 어떤 것이든 '결과물'을 기록하는 곳입니다.
